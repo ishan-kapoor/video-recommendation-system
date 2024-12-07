@@ -62,11 +62,17 @@ Implementation Details
     Root Mean Squared Error (RMSE)
 
 Code Structure
+
 ├── data_preprocessing.py    # Data fetching and preprocessing logic
+
 ├── model.py                 # Recommendation models
+
 ├── app.py                   # Flask application and API endpoints
+
 ├── requirements.txt         # Python dependencies
+
 ├── sklearn.metrics          # Evaluation metrics
+
 ├── README.md                # Documentation
 
 
