@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-recommendation-system.git
+   git clone https://github.com/ishan-kapoor/video-recommendation-system
    cd video-recommendation-system
 2. Set up a virtual environment (optional but recommended):
     python -m venv recommendation_env
